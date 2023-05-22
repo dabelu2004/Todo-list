@@ -15,6 +15,7 @@ function App() {
     });
     setInputText("");
   }
+  
 
   return (
     <div className="container">
