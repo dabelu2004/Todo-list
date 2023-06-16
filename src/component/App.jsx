@@ -8,6 +8,7 @@ function App() {
     const newValue = event.target.value;
     setInputText(newValue);
   }
+  
 
   function addItem() {
     setItems((prevItems) => {
